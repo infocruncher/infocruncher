@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there from Infocuncher 👋
+
+[blog.infocruncher.com](https://blog.infocruncher.com/)  
+[infocruncher.substack.com](https://infocruncher.substack.com/)
 
 <!--
 **infocruncher/infocruncher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
